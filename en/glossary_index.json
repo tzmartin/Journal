@@ -1,0 +1,1 @@
+[{"name":"Mermaid","id":"mermaid","description":"Generation of diagram and flowchart from text in a similar manner as markdown.  \nSee https://github.com/knsv/mermaid"},{"name":"Sequence","id":"sequence","description":"A simple javascript library to turn text into vector UML sequence diagrams. \nSee http://bramp.github.io/js-sequence-diagrams/"}]
